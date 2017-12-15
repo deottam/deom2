@@ -1,0 +1,19 @@
+--> git status
+--> git add . OR particular file Name 
+--> git commit -m "-- Message --"
+--> git log
+
+---------------
+To Create a file using Bash
+$ dir > file Name
+--------------------
+
+Git Cloud Repo URL --> https://github.com/deottam/deom2.git
+
+To Add into Cloud Repo --> git remote add origin https://github.com/deottam/deom2.git
+To Push Commit into Cloud --> git push -u origin master <or Branch Name >
+-------------------------
+
+To Set Git User ID and Password:
+--> git config --global user.email "your email id"
+--> git config --global user.name "your user name"
